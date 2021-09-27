@@ -18,4 +18,4 @@ Miles: (number of miles) Yards: (number yards) Feet: (number of feet) Inches: (n
 834299493
 
 # Output for Sample Input 1:
-Miles: 13167 Yards: 1065 Feet: 11 Inches: 0
+Miles: 13167 Yards: 1065 Feet: 2 Inches: 9
